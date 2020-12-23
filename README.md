@@ -31,7 +31,7 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
   - [kisslinux/repo](https://github.com/kisslinux/repo) - Official KISS repositories.
   - [konimex/kiss-llvm](https://github.com/konimex/kiss-llvm) - Repository structure to build LLVM without any traces of GCC libraries. It also provides any alternatives for official KISS packages that cannot be built with LLVM.
   - [mmatongo/kiss-lang](https://github.com/mmatongo/kiss-lang) - Repo dedicated to language compilers etc.
-  - [perish/kiss-all](https://github.com/periish/kiss-all) - kiss-all - all my kiss repositories in one repo
+  - [periish/kiss-all](https://github.com/periish/kiss-all) - kiss-all - all my kiss repositories in one repo
   - [sdsddsd1/kiss-games](https://github.com/sdsddsd1/kiss-games) - Repo for video games.
   - [st3r4g/kiss-repo](https://github.com/st3r4g/kiss-repo) - Repo with s6 and wayland packages.
 
